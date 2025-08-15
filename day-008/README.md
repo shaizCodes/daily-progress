@@ -1,4 +1,4 @@
-# Day 007 Progress Log
+# Day 008 Progress Log
 
 This README summarizes the work done on Day 008, following the daily log convention defined in the root README.
 
