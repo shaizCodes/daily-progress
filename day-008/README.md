@@ -2,6 +2,8 @@
 
 This README summarizes the work done on Day 008, following the daily log convention defined in the root README.
 
+**DATE:** _Thursday, August 14, 2025_
+
 ## Tasks/Activities
 
 - documented scraper source code, and refactored it to some extent with minor bug fixes

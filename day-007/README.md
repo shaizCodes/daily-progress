@@ -2,6 +2,8 @@
 
 This README summarizes the work done on Day 007, following the daily log convention defined in the root README.
 
+**DATE:** _Wednesday, August 13, 2025_
+
 ## Tasks/Activities
 
 - Pulled and explored the *Bitnami WordPress Helm* chart
