@@ -1,4 +1,4 @@
-# Day 006 Progress Log
+# Day 007 Progress Log
 
 This README summarizes the work done on Day 007, following the daily log convention defined in the root README.
 
@@ -11,7 +11,7 @@ This README summarizes the work done on Day 007, following the daily log convent
     - Custom values via `values.yaml`
   - Accessed the release through `minikube service SERVICE_NAME`
   - Rendered chart using helm template and saved output YAML to inspect rendered Kubernetes manifests
-- Accepted invitation to *CoderzHunt GitHub* organization for access to private repositories
+- Accepted invitation to *[CoderzHunt GitHub](https://github.com/CoderzHunt)* organization for access to private repositories
 - Deployed the npidb-scraper project on:
   - *Vercel* (initial attempt stalled due to server listening on port 3000)
   - *AWS EC2* (with help from *Umer*, instance later deleted to conserve credits)
