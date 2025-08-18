@@ -9,8 +9,6 @@ This README summarizes the work done on Day 008, following the daily log convent
 - documented scraper source code, and refactored it to some extent with minor bug fixes
 - added support for CSV file creation and wrote records instantly rather than in batches at the end
 - set up the project on client's machine and adapted it based on his reviews
-- revised and practiced Kubernetes concepts watching
-- revised and practiced Kubernetes concepts watching
 - revised and practiced Kubernetes concepts watching the suggested YouTube crash course, *[Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]](https://www.youtube.com/watch?v=X48VuDVv0do&t=5557s)*
 
 ## Tools/Technologies
