@@ -4,6 +4,8 @@ This README summarizes the work done on Day 010, following the daily log convent
 
 **DATE:** _Monday, August 18, 2025_
 
+**Attendance:** _06:15 PM to 04:40 AM (**New Joinees**)_
+
 ## Tasks/Activities
 
 - Created a Google email (_[coderzhunt1@gmail.com](mailto:coderzhunt1@gmail.com)_) to utilize free Gemini CLI tool
@@ -35,4 +37,4 @@ This README summarizes the work done on Day 010, following the daily log convent
 
 - Got soaked and late to the office due to rain.
 - Received first official task to get hands-on with actual Helm and K8s project
-- Two new joines; an Intern, and a Software Engineer
+- Two new joines; an Intern (*Muhammad Huzaifa*), and a Software Engineer (*Babar Mughal*)

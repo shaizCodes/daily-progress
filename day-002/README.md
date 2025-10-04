@@ -4,6 +4,8 @@ This README summarizes the work done on Day 002, following the daily log convent
 
 **DATE:** _Wednesday, August 06, 2025_
 
+**Attendance:** _06:04 PM to 03:05 AM_
+
 ## Tasks/Activities
 - Created a GitHub account ([shahzad-coderzhunt](https://github.com/shahzad-coderzhunt)) using official email ([m.shahzad@coderzhunt.com](mailto:m.shahzad@coderzhunt.com)) and synced it in VS Code
 - Installed and explored the [Kubernetes](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools) VS Code extension to understand Kubernetes architecture by building sample clusters, deployments, and services with `kubectl`. Used the Minikube dashboard for hands-on experience

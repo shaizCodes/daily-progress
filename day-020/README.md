@@ -4,6 +4,8 @@ This README summarizes the work done on Day 020, following the daily log convent
 
 **DATE:** _Monday, September 01, 2025_
 
+**Attendance:** _06:11 PM to 03:10 AM (**Official Holiday - Labor Day**)_
+
 ## Tasks/Activities
 
 - resolved a bug related to OpenAI API usage

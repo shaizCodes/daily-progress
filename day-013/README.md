@@ -4,6 +4,8 @@ This README summarizes the work done on Day 013, following the daily log convent
 
 **DATE:** _Thursday, August 21, 2025_
 
+**Attendance:** _06:06 PM to 03:35 AM (**skipped Photo session**)_
+
 ## Tasks/Activities
 
 - gave a Software Engineer Intern an overview of crucial web topics

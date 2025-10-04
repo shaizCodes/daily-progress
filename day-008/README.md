@@ -2,7 +2,9 @@
 
 This README summarizes the work done on Day 008, following the daily log convention defined in the root README.
 
-**DATE:** _Thursday, August 14, 2025_
+**DATE:** _Thursday, August 14, 2025 (**public holiday - PK Independence day**)_
+
+**Attendance:** _06:09 PM to 03:05 AM_
 
 ## Tasks/Activities
 

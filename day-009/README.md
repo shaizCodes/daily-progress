@@ -4,6 +4,8 @@ This README summarizes the work done on Day 009, following the daily log convent
 
 **DATE:** _Friday, August 15, 2025_
 
+**Attendance:** _06:09 PM to 03:02 AM_
+
 ## Tasks/Activities
 
 - Set up *NGINX* (pronounced as "engine X") server on *Windows* locally to understand how it works.

@@ -4,6 +4,8 @@ This README summarizes the work done on Day 016, following the daily log convent
 
 **DATE:** _Tuesday, August 26, 2025_
 
+**Attendance:** _06:09 PM to 04:30 AM_
+
 ## Tasks/Activities
 
 - onboarded an intern in an internal project, and helped him set it up on his machine

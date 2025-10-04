@@ -4,6 +4,8 @@ This README summarizes the work done on Day 006, following the daily log convent
 
 **DATE:** _Tuesday, August 12, 2025_
 
+**Attendance:** _06:07 PM to 04:07 AM_
+
 ## Tasks/Activities
 - Created a Docker account (synced with official email and GitHub)
 - Enabled MFA/2FA using Google Authenticator for GitHub and Docker accounts

@@ -4,6 +4,8 @@ This README summarizes the work done on Day 018, following the daily log convent
 
 **DATE:** _Thursday, August 28, 2025_
 
+**Attendance:** _06:15 PM to 03:15 AM_
+
 ## Tasks/Activities
 
 - The files shared with me were having bugs, so I had to collaborate with a peer to resolve those as changes were not from my side and the project did not have any Git history.

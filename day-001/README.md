@@ -4,6 +4,8 @@ This README summarizes the work done on Day 001, following the daily log convent
 
 **DATE:** _Tuesday, August 05, 2025_
 
+**Attendance:** _06:30 PM to 03:05 AM (**Joining date**)_
+
 ## Tasks/Activities
 - Installed essential software:
   - **Git**: Version control system for tracking code changes

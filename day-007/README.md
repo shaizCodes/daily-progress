@@ -4,6 +4,8 @@ This README summarizes the work done on Day 007, following the daily log convent
 
 **DATE:** _Wednesday, August 13, 2025_
 
+**Attendance:** _06:13 PM to 04:01 AM_
+
 ## Tasks/Activities
 
 - Pulled and explored the *Bitnami WordPress Helm* chart

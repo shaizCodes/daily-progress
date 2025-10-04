@@ -4,6 +4,8 @@ This README summarizes the work done on Day 014, following the daily log convent
 
 **DATE:** _Friday, August 22, 2025_
 
+**Attendance:** _06:25 PM to 03:12 AM_
+
 ## Tasks/Activities
 
 - got onboarded in the internal Jobalize project by Abdul Manan

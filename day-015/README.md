@@ -4,6 +4,8 @@ This README summarizes the work done on Day 015, following the daily log convent
 
 **DATE:** _Monday, August 25, 2025_
 
+**Attendance:** _06:09 PM to 04:30 AM_
+
 ## Tasks/Activities
 
 - guided intern in setting up a MongoDB connected ExpressJS backend with basic CRUD operations

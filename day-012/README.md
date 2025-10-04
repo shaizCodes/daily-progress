@@ -4,6 +4,8 @@ This README summarizes the work done on Day 012, following the daily log convent
 
 **DATE:** _Wednesday, August 20, 2025_
 
+**Attendance:** _06:09 PM to 05:06 AM_
+
 ## Tasks/Activities
 
 - connected to remote server (target test cluster) via `ssh`

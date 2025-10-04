@@ -4,6 +4,8 @@ This README summarizes the work done on Day 011, following the daily log convent
 
 **DATE:** _Tuesday, August 19, 2025_
 
+**Attendance:** _05:58 PM to 03:59 AM_
+
 ## Tasks/Activities
 
 - accessed remote server (interview.canopyhub.io) where the test cluster is deployed
