@@ -36,7 +36,7 @@ This README summarizes the work done on Day 002, following the daily log convent
 - Google Kubernetes Engine
 
 ## Blockers
-- Unable to bypass Cloudflare protection on npidb.org using Selenium and Undetected ChromeDriver
+- Unable to bypass Cloudflare protection on *** using Selenium and Undetected ChromeDriver
 
 ## Details
 - Used Kubernetes VS Code extension and Minikube dashboard for practical understanding of clusters, deployments, and services

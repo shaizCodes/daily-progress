@@ -11,7 +11,7 @@ This README summarizes the work done on Day 006, following the daily log convent
 - Enabled MFA/2FA using Google Authenticator for GitHub and Docker accounts
 - Created a public repository for hands-on Helm, *[practice-Helm](https://github.com/shahzad-coderzhunt/practice-Helm)*
 - Made the *[daily-progress](https://github.com/shahzad-coderzhunt/npidb-scraper)* repository public
-- Created a new private repository for *[npidb-scraper](https://github.com/shahzad-coderzhunt/practice-Helm)* and shared it with PM
+- Created a new private repository for *** and shared it with PM
 - Practiced Helm commands using official documentation
 - Learned to:
   - Add repositories, search charts (globally and specific), and pull charts
